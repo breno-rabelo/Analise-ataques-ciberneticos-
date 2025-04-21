@@ -23,12 +23,6 @@ O relatório incluso neste repositório (formato `.html`) foi gerado automaticam
 - Linha do tempo dos eventos
 - Evidências detalhadas de cada incidente
 
-## 🧠 Objetivo
-
-- Demonstrar competências em cibersegurança defensiva
-- Interpretar relatórios de segurança de forma eficaz
-- Aplicar conhecimento prático em detecção e resposta a incidentes
-- Criar um portfólio voltado à área de segurança da informação
 
 > ⚠️ Este projeto é apenas para fins educacionais. Os dados contidos no relatório são fictícios ou anonimizados.
 
